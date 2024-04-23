@@ -7,7 +7,6 @@ const StatusSorting = ({ setShowTrue, showTrue}) => {
   };
 
 
-
   return (
     <div className="mt-10">
       <div className="flex justify-center items-center">
